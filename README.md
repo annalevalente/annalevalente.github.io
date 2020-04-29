@@ -1,2 +1,2 @@
 # annalevalente.github.io
-projeto feito durante a aula da pós de UX da IED-SP pelo professor ThiagoBarcelos
+Projeto feito durante a aula de Front-end, na pós de UX/ IED-SP pelo professor Thiago Barcelos.
